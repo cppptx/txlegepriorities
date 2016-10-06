@@ -1,4 +1,20 @@
-@import url('http://fonts.googleapis.com/css?family=Oswald');
+
+/* basic setup */
+
+p, a {
+	font-family: 'Lato', helvetica;
+}
+
+h1 {
+	font-weight: bold;
+	font-family: 'PT Sans', sans-serif;
+}
+
+article {
+	font-size: 5em;
+}
+
+/* video background */
 
 body {
   margin: 0;
@@ -29,16 +45,15 @@ article {
 
 h1 {
   position: absolute;
-  top: 60%;
+  top: 50%;
   width: 100%;
-  font-size: 36px;
-  letter-spacing: 3px;
+  font-size: 1.5em;
   color: #fff;
-  font-family: Oswald, sans-serif;
+  font-family: 'PT Sans', sans-serif;
   text-align: center;
 }
 
 #logo {
-  max-width: 75%;
-  margin-top: 40%;
+  max-width: 70%;
+  margin-top: 30%;
 }
