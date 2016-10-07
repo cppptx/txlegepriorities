@@ -1,12 +1,4 @@
-/*
 
-Landing Zero theme - A free landing page theme from BootstrapZero
-http://www.bootstrapzero.com
-
-*/
-
-@import url(https://fonts.googleapis.com/css?family=Questrial);
-@import url(http://fonts.googleapis.com/css?family=Dancing+Script:700);
 
 html,
 body {
@@ -47,7 +39,8 @@ a:focus {
 }
 
 h1,h2,h3,h4,h5,h6 {
-    font-family: 'Questrial','Helvetica Neue',Arial,sans-serif;
+    font-family: 'Roboto', sans-serif;
+	font-style: italic;
 }
 
 p {
@@ -72,11 +65,6 @@ p {
 .bg-dark {
     color: #eee;
     background-color: #222;
-}
-
-.cursive {
-    font-family: 'Dancing Script', cursive;
-    text-transform: none;
 }
 
 .text-faded {
@@ -252,13 +240,15 @@ header .header-content {
 header .header-content .inner h1 {
     margin-top: 0;
     margin-bottom: 0;
+	font-size: 5em;
 }
 
 header .header-content .inner p {
     margin-bottom: 50px;
-    font-size: 16px;
-    font-weight: 300;
-    color: rgba(255,255,255,0.7);
+    font-size: 1.5em;
+	font-family: 'Lato', Helvetica;
+    font-weight: 400;
+    color: white;
 }
 
 #video-background {
