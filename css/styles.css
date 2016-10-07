@@ -241,14 +241,18 @@ header .header-content .inner h1 {
     margin-top: 0;
     margin-bottom: 0;
 	font-size: 5em;
+	color: black;
+	background-color: white;
 }
 
 header .header-content .inner p {
     margin-bottom: 50px;
-    font-size: 1.5em;
+    font-size: 1.3em;
 	font-family: 'Lato', Helvetica;
     font-weight: 400;
     color: white;
+	color: white;
+	background-color: black;
 }
 
 #video-background {
@@ -295,14 +299,14 @@ footer {
     }
 
     header .header-content .inner h1 {
-        font-size: 53px;
+        
     }
 
     header .header-content .inner p {
         margin-right: auto;
         margin-left: auto;
         max-width: 80%;
-        font-size: 18px;
+        
     }
     
     section {
