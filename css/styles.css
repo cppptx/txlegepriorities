@@ -27,6 +27,7 @@ hr.light {
 
 a {
     color: #0090a1;
+	text-decoration: none;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
@@ -264,22 +265,6 @@ header .header-content .inner p {
 	padding-bottom: 1.5%;
 	background-color: #0090a1;
 	border-radius: 25px;
-}
-
-.inner .pdfbutton {
-	font-family: 'PT Sans', sans-serif;
-	font-weight: 700;
-	font-style: italic;
-	text-decoration: none;
-	color: white;
-}
-
-#aboutmodal a {
-	font-family: 'PT Sans', sans-serif;
-	font-weight: 700;
-	font-style: italic;
-	text-decoration: none;
-	color: white;
 }
 
 #video-background {
