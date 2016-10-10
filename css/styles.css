@@ -256,6 +256,22 @@ header .header-content .inner p {
     color: white;
 }
 
+#pdfbutton {
+	padding-left: 2.5%;
+	padding-right: 2.5%;
+	padding-top: 1.5%;
+	padding-bottom: 1.5%;
+	background-color: #0090a1;
+	border-radius: 25px;
+}
+
+.inner #pdfbutton {
+	font-family: 'PT Sans', sans-serif;
+	font-weight: 700;
+	text-decoration: none;
+	color: white;
+}
+
 #video-background {
   position: absolute;
   right: 0; 
