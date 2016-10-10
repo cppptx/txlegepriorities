@@ -310,6 +310,26 @@ header .header-content .inner p {
 	padding-left: 2%;
 }
 
+.visiontitleeconomic {
+	font-family: 'PT Sans', sans-serif;
+	font-style: italic;
+	font-weight: 700;
+	color: #72549d;
+}
+
+#seven {
+	color: white; 
+	background-color: #c5484c;
+	padding-left: 2%;
+}
+
+.visiontitleinvest {
+	font-family: 'PT Sans', sans-serif;
+	font-style: italic;
+	font-weight: 700;
+	color: #c5484c;
+}
+
 footer {
     background-color:#2d2d2d;
 }
