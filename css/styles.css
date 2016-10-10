@@ -286,13 +286,16 @@ header .header-content .inner p {
   display:none;
 }
 
-.panel-default > .panel-heading {
+.panel-default {
 	font-family: 'PT Sans', sans-serif;
 	font-style: italic;
 	font-weight: 700;
+	border: none;
+}
+
+.panel-default > .panel-heading {
 	background-color: #0090a1;
 	color: white;
-	border: none;
 }
 
 footer {
