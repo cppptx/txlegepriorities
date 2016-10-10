@@ -145,7 +145,7 @@ footer {
 
 .navbar-default .nav > li.active>a,
 .navbar-default .nav>li.active>a:focus {
-    color: #0090a1 !important;
+    color: #fff !important;
     background-color: transparent;
 }
 
@@ -206,6 +206,7 @@ footer {
     .navbar-default.affix .nav > li>a,
     .navbar-default.affix .nav>li>a:focus {
         color: #0090a1;
+        text-shadow: 1px 1px 1px rgba(30,30,30,0.7);
     }
 
     .navbar-default.affix .nav > li>a:hover,
