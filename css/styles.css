@@ -59,8 +59,7 @@ p {
 }
 
 .bg-primary {
-    background-color: #f8d68d;
-	color: #151515;
+    background-color: #333;
 }
 
 .bg-dark {
@@ -264,9 +263,9 @@ header .header-content .inner p {
 	padding-right: 2.5%;
 	padding-top: 1.5%;
 	padding-bottom: 1.5%;
-	background-color: #0090a1;
+	background-color: #f8d68d;
 	border-radius: 25px;
-	color: white;
+	color: #0090a1;
 	font-family: 'PT Sans', sans-serif;
 	font-weight: 700;
 	font-style: italic;
