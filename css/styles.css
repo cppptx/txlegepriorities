@@ -286,6 +286,13 @@ header .header-content .inner p {
   display:none;
 }
 
+.panel-title {
+	font-family: 'PT Sans', sans-serif;
+	font-style: italic;
+	background-color: #0090a1;
+	color: white;
+}
+
 footer {
     background-color:#2d2d2d;
 }
