@@ -7,7 +7,6 @@ body {
 }
 
 body {
-    font-family: 'Lato', sans-serif;
     background-color: #282828;
     color: #d3d3d3;
     webkit-tap-highlight-color: #222;
@@ -47,6 +46,7 @@ p {
     font-size: 17px;
     line-height: 1.7;
     margin-bottom: 20px;
+	font-family: 'Lato', sans-serif;
 }
 
 .wide-space {
@@ -266,6 +266,9 @@ header .header-content .inner p {
 	background-color: #0090a1;
 	border-radius: 25px;
 	color: white;
+	font-family: 'PT Sans', sans-serif;
+	font-weight: 700;
+	font-style: italic;
 }
 
 #video-background {
