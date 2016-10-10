@@ -246,7 +246,6 @@ header .header-content .inner h1 {
     margin-bottom: 3%;
 	font-size: 5em;
 	color: white;
-	text-shadow: 1px 3px 2px #121212;
 }
 
 header .header-content .inner p {
@@ -255,7 +254,6 @@ header .header-content .inner p {
 	font-family: 'Lato', Helvetica;
     font-weight: 400;
     color: white;
-	text-shadow: 2px 1px 2px #121212;
 }
 
 #video-background {
