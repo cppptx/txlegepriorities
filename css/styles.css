@@ -145,7 +145,7 @@ footer {
 
 .navbar-default .nav > li.active>a,
 .navbar-default .nav>li.active>a:focus {
-    color: #fff !important;
+    color: #0090a1 !important;
     background-color: transparent;
 }
 
