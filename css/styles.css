@@ -293,6 +293,11 @@ header .header-content .inner p {
 	color: #0090a1;
 }
 
+.panelbody ul {
+	color: #2d2d2d;
+	font-family: 'Lato', sans-serif;
+}
+
 footer {
     background-color:#2d2d2d;
 }
