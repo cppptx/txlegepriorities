@@ -102,7 +102,7 @@ footer {
 .navbar-default {
     border-color: rgba(35,35,35,.05);
     font-family: 'PT Sans', sans-serif;
-    background-color: #222;
+    background-color: f8d68d;
     -webkit-transition: all .4s;
     -moz-transition: all .4s;
     transition: all .4s;
@@ -119,7 +119,7 @@ footer {
 
 .navbar-header > .navbar-brand:hover,
 .navbar-header > .navbar-brand:focus {
-    color: #8b27b0;
+    color: #0090a1;
 }
 
 .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
