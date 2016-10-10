@@ -286,13 +286,6 @@ header .header-content .inner p {
   display:none;
 }
 
-.visiontitle {
-	font-family: 'PT Sans', sans-serif;
-	font-style: italic;
-	font-weight: 700;
-	color: #0090a1;
-}
-
 .panel-default .panel-body {
 	color: #2d2d2d;
 	font-family: 'Lato', sans-serif;
@@ -301,6 +294,19 @@ header .header-content .inner p {
 #five {
 	color: white;
 	background-color: #0090a1;
+	padding-left: 2%;
+}
+
+.visiontitlehealth {
+	font-family: 'PT Sans', sans-serif;
+	font-style: italic;
+	font-weight: 700;
+	color: #0090a1;
+}
+
+#six {
+	color: white; 
+	background-color: #72549d;
 	padding-left: 2%;
 }
 
