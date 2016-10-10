@@ -286,16 +286,11 @@ header .header-content .inner p {
   display:none;
 }
 
-.panel-default {
+.visiontitle {
 	font-family: 'PT Sans', sans-serif;
 	font-style: italic;
 	font-weight: 700;
-	border: none;
-}
-
-.panel-default > .panel-heading {
-	background-color: #0090a1;
-	color: white;
+	color: #0090a1;
 }
 
 footer {
