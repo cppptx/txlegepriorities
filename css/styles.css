@@ -236,7 +236,7 @@ header .header-content {
     z-index: 2;
 }
 
-#logo {
+.logo {
 	max-width: 60%;
 	margin-bottom: 3%;
 }
