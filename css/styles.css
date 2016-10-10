@@ -556,8 +556,13 @@ img::-moz-selection {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+	}
+	
+    #video-background {
+  	display: none;
 }
 }
+
 
 /* ----------- iPhone 5 and 5S ----------- */
 
@@ -566,7 +571,24 @@ img::-moz-selection {
   and (min-device-width: 320px) 
   and (max-device-width: 568px)
   and (-webkit-min-device-pixel-ratio: 2) {
-
+	header {
+    position: relative;
+    min-height: auto;
+    text-align: center;
+    color: #fff;
+    width: 100%;
+    background-color: #c9c9c9;
+    background-image: url('../img/P1000145000-mobile.jpg');
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+	}
+	
+    #video-background {
+  	display: none;
+}
 }
 
 
@@ -591,6 +613,10 @@ img::-moz-selection {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+	}
+	
+    #video-background {
+  	display: none;
 }
 }
 
@@ -614,6 +640,10 @@ img::-moz-selection {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+	}
+	
+    #video-background {
+  	display: none;
 }
 }
 
@@ -638,6 +668,10 @@ img::-moz-selection {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+	}
+	
+    #video-background {
+  	display: none;
 }
 }
 
@@ -673,6 +707,10 @@ img::-moz-selection {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+	}
+	
+    #video-background {
+  	display: none;
 }
 }
 
@@ -697,6 +735,10 @@ img::-moz-selection {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+	}
+	
+    #video-background {
+  	display: none;
 }
 }
 
@@ -719,6 +761,10 @@ img::-moz-selection {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+	}
+	
+    #video-background {
+  	display: none;
 }
 }
 
@@ -741,6 +787,10 @@ img::-moz-selection {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+	}
+	
+    #video-background {
+  	display: none;
 }
 }
 
@@ -764,6 +814,10 @@ img::-moz-selection {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+	}
+	
+    #video-background {
+  	display: none;
 }
 }
 
@@ -786,6 +840,10 @@ img::-moz-selection {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+	}
+	
+    #video-background {
+  	display: none;
 }
 }
 
@@ -808,6 +866,10 @@ img::-moz-selection {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+	}
+	
+    #video-background {
+  	display: none;
 }
 }
 
@@ -830,6 +892,10 @@ img::-moz-selection {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+	}
+	
+    #video-background {
+  	display: none;
 }
 }
 
@@ -852,6 +918,10 @@ img::-moz-selection {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+	}
+	
+    #video-background {
+  	display: none;
 }
 }
 
@@ -874,6 +944,10 @@ img::-moz-selection {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+	}
+	
+    #video-background {
+  	display: none;
 }
 }
 
@@ -896,6 +970,10 @@ img::-moz-selection {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+	}
+	
+    #video-background {
+  	display: none;
 }
 }
 
@@ -918,6 +996,10 @@ img::-moz-selection {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+	}
+	
+    #video-background {
+  	display: none;
 }
 }
 
@@ -940,6 +1022,10 @@ img::-moz-selection {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+	}
+	
+    #video-background {
+  	display: none;
 }
 }
 
