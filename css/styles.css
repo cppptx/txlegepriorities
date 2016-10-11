@@ -334,6 +334,10 @@ header .header-content .inner p {
 	color: #72549d;
 }
 
+.modal-content h5 {
+	font-family: 'PT Sans', sans-serif;
+}
+
 footer {
     background-color:#2d2d2d;
 }
