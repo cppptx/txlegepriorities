@@ -84,6 +84,10 @@ p {
 	font-family: 'Lato', sans-serif;
 }
 
+.priorityimg {
+	max-width: 5%;
+}
+
 section {
     padding: 70px 0;
 }
