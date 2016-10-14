@@ -295,6 +295,8 @@ header .header-content .inner p {
 .panel-default .panel-body {
 	color: #2d2d2d;
 	font-family: 'Lato', sans-serif;
+	background-color: #e2e3e4;
+	padding: .5%;
 }
 
 #dome {
@@ -302,8 +304,8 @@ header .header-content .inner p {
 }
 
 #five {
-	color: white;
-	background-color: #0090a1;
+	color: #0090a1;
+	background-color: #f8d68d;
 	padding-left: 2%;
 }
 
@@ -315,8 +317,8 @@ header .header-content .inner p {
 }
 
 #six {
-	color: white; 
-	background-color: #c5484c;
+	color: #c5484c; 
+	background-color: #f8d68d;
 	padding-left: 2%;
 }
 
@@ -328,8 +330,8 @@ header .header-content .inner p {
 }
 
 #seven {
-	color: white; 
-	background-color: #72549d;
+	color: #72549d; 
+	background-color: #f8d68d;
 	padding-left: 2%;
 }
 
