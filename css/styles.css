@@ -304,8 +304,8 @@ header .header-content .inner p {
 }
 
 #five {
-	color: #0090a1;
-	background-color: #f8d68d;
+	color: white;
+	background-color: #0090a1;
 	padding-left: 2%;
 }
 
@@ -314,11 +314,13 @@ header .header-content .inner p {
 	font-style: italic;
 	font-weight: 700;
 	color: #0090a1;
+	background-color: #f8d68d;
+	padding: .5%;
 }
 
 #six {
-	color: #c5484c; 
-	background-color: #f8d68d;
+	color: white; 
+	background-color: #c5484c;
 	padding-left: 2%;
 }
 
@@ -327,11 +329,13 @@ header .header-content .inner p {
 	font-style: italic;
 	font-weight: 700;
 	color: #c5484c;
+	background-color: #f8d68d;
+	padding: .5%;
 }
 
 #seven {
-	color: #72549d; 
-	background-color: #f8d68d;
+	color: white; 
+	background-color: #72549d;
 	padding-left: 2%;
 }
 
@@ -340,6 +344,8 @@ header .header-content .inner p {
 	font-style: italic;
 	font-weight: 700;
 	color: #72549d;
+	background-color: #f8d68d;
+	padding: .5%;
 }
 
 .modal-content h5 {
