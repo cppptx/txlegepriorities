@@ -59,7 +59,7 @@ p {
 }
 
 .bg-primary {
-    background-color: #333;
+    background-color: #e2e3e4;;
 }
 
 .bg-dark {
@@ -108,7 +108,7 @@ footer {
 .navbar-default {
     border-color: rgba(35,35,35,.05);
     font-family: 'PT Sans', sans-serif;
-    background-color: #222;
+    background-color: #2D2D2D;
     -webkit-transition: all .4s;
     -moz-transition: all .4s;
     transition: all .4s;
