@@ -165,11 +165,7 @@ footer {
     background-color: transparent;
 }
 
-@media (min-width: 1146px) {
-   .collapse {
-       display: none !important;
-   }
-}
+
 
 @media(min-width:768px) {
     .navbar-default {
