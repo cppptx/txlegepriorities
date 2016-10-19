@@ -167,7 +167,7 @@ footer {
 
 
 
-@media(min-width:1255px) {
+@media(min-width:768px) {
     .navbar-default {
         border-color: transparent;
         background-color: transparent;
@@ -228,7 +228,7 @@ footer {
 
 
 #donate {
-	color: #0090a1;
+	color: #c5484c;
 	font-family: 'PT Sans', sans-serif;
 	font-weight: 700;
 	font-style: italic;
