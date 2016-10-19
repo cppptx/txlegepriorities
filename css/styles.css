@@ -225,7 +225,7 @@ footer {
         color: #0090a1;
     }
 }
-
+/*
 @media (max-width: 1255px) {
     .navbar-header {
         float: none;
@@ -261,7 +261,7 @@ footer {
     .collapse.in{
         display:block !important;
     }
-}
+}*/
 
 #donate {
 	color: #0090a1;
