@@ -1166,6 +1166,25 @@ img::-moz-selection {
     .collapse.in{
         display:block !important;
     }
+	
+	header {
+    position: relative;
+    min-height: auto;
+    text-align: center;
+    color: #fff;
+    width: 100%;
+    background-color: #c9c9c9;
+    background-image: url('../img/P1000145000-mobile.jpg');
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+	}
+	
+    #video-background {
+  	display: none;
+}
 }
 
 
