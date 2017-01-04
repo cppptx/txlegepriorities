@@ -386,8 +386,9 @@ header .header-content .inner p {
 	color: #c5484c;
 }
 
-.economicbullet li span {
-	color: #2d2d2d;
+.economicbullet li a {
+	color: #c5484c;
+	text-decoration: none;
 }
 
 #seven {
@@ -410,8 +411,8 @@ header .header-content .inner p {
 	color: #72549d;
 }
 
-.investbullet li span {
-	color: #2d2d2d;
+.investbullet li a {
+	color: #72549d;
 }
 
 .modal-content h5 {
