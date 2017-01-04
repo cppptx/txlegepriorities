@@ -101,8 +101,10 @@ aside {
     padding: 50px 0;
 }
 
-footer {
+#footer {
     padding: 15px;
+	background-color: #fff;
+	color: #2d2d2d;
 }
 
 .no-padding {
