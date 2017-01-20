@@ -360,6 +360,9 @@ header .header-content .inner p {
 
 .healthbullet li {
 	color: #0090a1;
+	font-family: 'Lato', sans-serif;
+	font-weight: 700;
+	list-style-type: none; 
 }
 
 .healthbullet li a {
@@ -384,6 +387,9 @@ header .header-content .inner p {
 
 .economicbullet li {
 	color: #c5484c;
+	font-family: 'Lato', sans-serif;
+	font-weight: 700;
+	list-style-type: none; 
 }
 
 .economicbullet li a {
@@ -408,6 +414,9 @@ header .header-content .inner p {
 
 .investbullet li {
 	color: #72549d;
+	font-family: 'Lato', sans-serif;
+	font-weight: 700;
+	list-style-type: none; 
 }
 
 .investbullet li a {
