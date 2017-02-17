@@ -61,6 +61,14 @@ p {
 	font-family: 'Lato', sans-serif;
 }
 
+#poopic {
+	max-width: 30%;
+}
+
+#poosection {
+	color: #0D0D0D;
+}
+
 #poosignup {
 	padding-left: 1.5%;
 	padding-right: 1.5%;
