@@ -719,7 +719,12 @@ img::-moz-selection {
 	
     #video-background {
   	display: none;
-}
+	}
+	
+	#poopic {
+	max-width: 25%;
+	}
+
 }
 
 
