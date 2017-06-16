@@ -64,6 +64,11 @@ p {
 	padding-left: 30%;
 }
 
+#coverimage {
+	max-width: 50%;
+	
+}
+
 .wide-space {
     letter-spacing: 1.6px;
 }
