@@ -65,8 +65,9 @@ p {
 }
 
 #coverimage {
-	max-width: 50%;
-	
+	max-width: 45%;
+	padding-left: 27.50%;
+	padding-right: 27.50%;
 }
 
 .wide-space {
