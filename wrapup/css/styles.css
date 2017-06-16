@@ -8,7 +8,6 @@ body {
 
 body {
     background-color: #fff;
-    color: #d3d3d3;
     webkit-tap-highlight-color: #222;
 }
 
@@ -42,11 +41,45 @@ h1,h2,h3,h4,h5,h6 {
     font-family: 'PT Sans', sans-serif;
 }
 
+li {
+	font-size: 1.2em;
+	font-family: 'Lato', sans-serif;
+}
+
+.more {
+	font-family: 'PT Sans', sans-serif;
+	font-size: 1.3em;
+	font-weight: 700;
+	padding-left: 2.3%;
+}
+
 p {
     font-size: 17px;
     line-height: 1.7;
     margin-bottom: 20px;
 	font-family: 'Lato', sans-serif;
+}
+
+#poopic {
+	max-width: 25%;
+}
+
+#poosection {
+	color: #0D0D0D;
+}
+
+.poosignup {
+	padding-left: 1.5%;
+	padding-right: 1.5%;
+	padding-top: .5%;
+	padding-bottom: .5%;
+	background-color: #f8d68d;
+	border-radius: 25px;
+	color: #0090a1;
+	font-family: 'PT Sans', sans-serif;
+	font-weight: 700;
+	font-style: italic;
+	font-size: 1.5em;
 }
 
 .wide-space {
@@ -97,12 +130,19 @@ section {
     padding: 70px 0;
 }
 
+.card-header a {
+	text-decoration: none;
+	color: white;
+}
+
 aside {
     padding: 50px 0;
 }
 
-footer {
+#footer {
     padding: 15px;
+	background-color: #fff;
+	color: #2d2d2d;
 }
 
 .no-padding {
@@ -324,10 +364,16 @@ header .header-content .inner p {
 	padding-left: 2%;
 }
 
+#five a {
+	color: white;
+	text-decoration: none;
+}
+
 .visiontitlehealth {
 	font-family: 'PT Sans', sans-serif;
 	font-style: italic;
 	font-weight: 700;
+	font-size: 1.7em;
 	color: #0090a1;
 	background-color: #f8d68d;
 	padding: .5%;
@@ -335,10 +381,13 @@ header .header-content .inner p {
 
 .healthbullet li {
 	color: #0090a1;
+	font-family: 'Lato', sans-serif;
+	font-weight: 700;
+	list-style-type: none; 
 }
 
-.healthbullet li span {
-	color: #2d2d2d;
+.healthbullet li a {
+	color: #0090a1;
 }
 
 #six {
@@ -351,6 +400,7 @@ header .header-content .inner p {
 	font-family: 'PT Sans', sans-serif;
 	font-style: italic;
 	font-weight: 700;
+	font-size: 1.7em;
 	color: #c5484c;
 	background-color: #f8d68d;
 	padding: .5%;
@@ -358,10 +408,13 @@ header .header-content .inner p {
 
 .economicbullet li {
 	color: #c5484c;
+	font-family: 'Lato', sans-serif;
+	font-weight: 700;
+	list-style-type: none; 
 }
 
-.economicbullet li span {
-	color: #2d2d2d;
+.economicbullet li a {
+	color: #c5484c;
 }
 
 #seven {
@@ -374,6 +427,7 @@ header .header-content .inner p {
 	font-family: 'PT Sans', sans-serif;
 	font-style: italic;
 	font-weight: 700;
+	font-size: 1.7em;
 	color: #72549d;
 	background-color: #f8d68d;
 	padding: .5%;
@@ -381,10 +435,13 @@ header .header-content .inner p {
 
 .investbullet li {
 	color: #72549d;
+	font-family: 'Lato', sans-serif;
+	font-weight: 700;
+	list-style-type: none; 
 }
 
-.investbullet li span {
-	color: #2d2d2d;
+.investbullet li a {
+	color: #72549d;
 }
 
 .modal-content h5 {
@@ -662,7 +719,12 @@ img::-moz-selection {
 	
     #video-background {
   	display: none;
-}
+	}
+	
+	#poopic {
+	max-width: 60%;
+	}
+
 }
 
 
