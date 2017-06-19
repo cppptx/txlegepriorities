@@ -368,6 +368,12 @@ header .header-content .inner p {
 	padding-right: 20%;
 }
 
+.well {
+	background-color: #0090a1;
+	color: white;
+	padding: .5%;
+}
+
 .visiontitlehealth {
 	font-family: 'PT Sans', sans-serif;
 	font-style: italic;
