@@ -368,25 +368,25 @@ header .header-content .inner p {
 	padding-right: 20%;
 }
 
-#hwobjectives {
+.hwobjectives {
 	background-color: #0090a1;
 	color: white;
 	padding-top: .3%;
 	padding-bottom: 1%;
 }
 
-#hwobjectives h2, li {
+.hwobjectives h2, li {
 	padding-left: 2%;
 }
 
-#eoobjectives {
+.eoobjectives {
 	background-color: #c5484c;
 	color: white;
 	padding-top: .3%;
 	padding-bottom: 1%;
 }
 
-#eoobjectives h2, li {
+.eoobjectives h2, li {
 	padding-left: 2%;
 }
 
