@@ -363,6 +363,11 @@ header .header-content .inner p {
 	text-decoration: none;
 }
 
+.policydescrip {
+	padding-left: 20%;
+	padding-right: 20%;
+}
+
 .visiontitlehealth {
 	font-family: 'PT Sans', sans-serif;
 	font-style: italic;
