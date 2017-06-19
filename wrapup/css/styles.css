@@ -371,7 +371,9 @@ header .header-content .inner p {
 .well {
 	background-color: #0090a1;
 	color: white;
-	padding: .5%;
+	padding-left: .5%;
+	padding-top: .5%;
+	padding-bottom: .5%;
 }
 
 .visiontitlehealth {
