@@ -455,13 +455,14 @@ header .header-content .inner p {
 }
 
 .itobjectives {
-	background-color: #c5484c;
+	background-color: #72549d;
 	color: white;
 	padding-top: .3%;
 	padding-bottom: 1%;
 }
 
 .itobjectives h2, li {
+	border-radius: 25px;
 	padding-left: 2%;
 }
 
