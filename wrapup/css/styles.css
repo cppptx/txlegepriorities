@@ -371,13 +371,14 @@ header .header-content .inner p {
 #hwobjectives {
 	background-color: #0090a1;
 	color: white;
+	padding-top: .3%;
+	padding-bottom: 1%;
 }
 
-#hwobjectives h1 li { 
-	padding-left: .5%;
-	padding-top: .5%;
-	padding-bottom: .5%;
+#hwobjectives h1, li {
+	padding-left: 2%;
 }
+
 
 .visiontitlehealth {
 	font-family: 'PT Sans', sans-serif;
