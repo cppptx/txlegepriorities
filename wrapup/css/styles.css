@@ -68,6 +68,10 @@ p {
 	max-width: 100%;
 }
 
+#coverheadline {
+	font-size: 2em;
+}
+
 .wide-space {
     letter-spacing: 1.6px;
 }
