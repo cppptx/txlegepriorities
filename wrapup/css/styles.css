@@ -753,9 +753,7 @@ img::-moz-selection {
   	display: none;
 	}
 	
-	#poopic {
-	max-width: 60%;
-	}
+	
 
 }
 
@@ -813,7 +811,7 @@ img::-moz-selection {
 	
     #video-background {
   	display: none;
-}
+	}
 }
 
 /* ----------- iPhone 6+ ----------- */
@@ -1225,6 +1223,12 @@ img::-moz-selection {
 }
 }
 
+@media (max-width: 768px) {
+	#coversection {
+		padding-left: 8%;
+		padding-right: 8%;
+	}
+}
 
 
 
