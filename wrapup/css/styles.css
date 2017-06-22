@@ -1232,8 +1232,8 @@ img::-moz-selection {
 		padding-right: 5%;
 	}
 	
-	.inner > h1 {
-		font-size: .5em;
+	.inner h1 {
+		font-size: .3em;
 	}
 }
 
