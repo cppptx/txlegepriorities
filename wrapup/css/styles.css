@@ -330,6 +330,10 @@ header .header-content .inner p {
 	font-style: italic;
 }
 
+#specialbutton {
+	margin-top: 5%;
+}
+
 .pdfbuttonspecial {
 	padding-left: 2.5%;
 	padding-right: 2.5%;
@@ -341,10 +345,6 @@ header .header-content .inner p {
 	font-family: 'PT Sans', sans-serif;
 	font-weight: 700;
 	font-style: italic;
-}
-
-#specialbutton {
-	margin-top: 5%;
 }
 
 #video-background {
